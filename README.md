@@ -1,4 +1,4 @@
-### Previous Version from Bin Sun (https://github.com/bsu233/microglia_MACH)
+Previous Version from Bin Sun (https://github.com/bsu233/microglia_MACH)
 # Using the MACH filter to detect microglia morphology in humain brain tissue images.
 The code is still in development. To run the code on our local cluster (faust.luc.edu), you need: 
 1. Have a user account on Faust. 
